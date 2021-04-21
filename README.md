@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @dosuitter
-- 👀 I’m interested in digital innovations
-- 💞️ I’m looking to collaborate on useful OSS projects
+- 👋 Hi there, I’m @dosuitter, a @dosuitto tech-manager
+- 👀 I’m interested in modern innovations
+- 🛰️ I’m looking to collaborate on useful OSS projects
+- 🍊 I work for results-driven digital agency
 - 📫 How to reach me: dosuitto@gmail.com
-
-<!---
-dosuitter/dosuitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📱  Follow me on [Twitter](https://twitter.com/dosuitto) or [Instagram](https://instagram.com/dosuitto)
